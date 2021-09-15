@@ -1,4 +1,3 @@
-
 const assertArraysEqual = function(input, input2) {
   if (input.length !== input2.length) {
     return false;
