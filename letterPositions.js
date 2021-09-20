@@ -40,6 +40,8 @@ const letterPositions = function(sentence) {
   return results;
 };
 
-//TEST
+/*//TEST
 console.log(letterPositions("colorado"));
-console.log(assertArraysEqual(letterPositions("hello").l, [2, 3]));
+console.log(assertArraysEqual(letterPositions("hello").l, [2, 3]));*/
+
+module.exports = letterPositions;

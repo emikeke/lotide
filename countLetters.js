@@ -19,4 +19,6 @@ const countLetters = function(sentence) {
 };
 
 // TEST CODE
-console.log(countLetters("lighthouse"));
+//console.log(countLetters("lighthouse"));
+
+module.exports = countLetters;

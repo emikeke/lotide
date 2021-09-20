@@ -44,3 +44,5 @@ const without = function(source, itemsToRemove) {
   }
   return sourceRemainder;
 };
+
+module.exports = without;

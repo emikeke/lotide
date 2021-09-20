@@ -42,7 +42,7 @@ const eqArrays = function(input, input2) {
   return Boolean(arrayEqual);
 };
 
-//TEST CASES
+/*//TEST CASES
 
 const words = ["ground", "control", "to", "major", "tom"];
 const words2 = ["hello", "thanks", "welcome", "bye", "farewell"];
@@ -51,4 +51,6 @@ const words3 = ["humanities", "biology", "health", "psychology", "math"];
 //console.log(map(words, callback));
 console.log(assertArraysEqual(map(words, callback), [ 'g', 'c', 't', 'm', 't' ]));
 console.log(assertArraysEqual(map(words2, callback), [ 'h', 't', 'w', 'b', 'f' ]));
-console.log(assertArraysEqual(map(words3, callback), [ 'h', 'b', 'h', 'p', 'm' ]));
+console.log(assertArraysEqual(map(words3, callback), [ 'h', 'b', 'h', 'p', 'm' ]));*/
+
+module.exports = map;
