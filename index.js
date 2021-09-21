@@ -21,6 +21,7 @@ module.exports = {
   tail,
   middle,
   assertArraysEqual,
+  assertEqual,
   assertObjectsEqual,
   countLetters,
   countOnly,

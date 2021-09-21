@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "lotide-library",
   "version": "1.0.0",
   "description": "A Javascript library of functions that I've made at LHL Intro to Web Development bootcamp.",
   "main": "assertArraysEqual.js",
@@ -16,7 +16,7 @@
   "author": "Emily K.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/emikeke/lotide/issues"
+    "url": "https://github.com/emikeke/lotide"
   },
   "homepage": "https://github.com/emikeke/lotide#readme",
   "devDependencies": {
